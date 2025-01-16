@@ -126,9 +126,9 @@
     transition: all 9s ease;
     position: relative;
     &:hover{
-        background-position: bottom;
+        // background-position: bottom;
         &.inner{
-            background-position: top;
+            // background-position: top;
         }
     }
 }

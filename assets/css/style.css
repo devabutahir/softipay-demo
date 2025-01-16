@@ -1986,13 +1986,6 @@ iframe {
   -o-object-fit: cover;
      object-fit: cover;
 }
-.home-thumb:hover {
-  background-position: bottom;
-}
-.home-thumb:hover.inner {
-  background-position: top;
-}
-
 .marquee-section.shape::before {
   position: absolute;
   content: "";
