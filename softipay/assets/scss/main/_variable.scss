@@ -1,0 +1,65 @@
+// default font family
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+// default root
+:root {
+	--body-font: 'Onest', sans-serif;
+	--transition: all 0.5s ease-in-out;
+
+	/* Color styles */
+	--p1: 1, 166, 107;
+	--p2: #FFAF40;
+	--p3: #EEF5DB;
+	--p4: #FF4800;
+	--p5: #444CE7;
+	--p6: #FAFE02;
+	--p7-gradient: linear-gradient(274deg, #3FFF08 4.65%, #03FFB7 91.31%);
+	--p8: #FF622B;
+	--p9: #1F00FF;
+	--p10: #03FFB7;
+	--p11: #1649FF;
+	--s2: #01A66B;
+	--bg1: #005651;
+	--bg2: #4B655C;
+	--bg3: #ECFFFC;
+	--bg4: #C3EDDF;
+	--bg5: #EFEEE7;
+	--bg6: #E5FDCE;
+	--bg7: #F4F3F0;
+	--bg8: #F5F8FF;
+	--bg9: #C6E3D5;
+	--bg10: #00F09A;
+	--bg11: #F5F5F5;
+	--bg12: #EFF9F6;
+	--bg13: #171E33;
+	--bg14: #141A2A;
+	--bg15: #1D263F;
+	--bg16: #E6F7F1;
+	--bg17: #F9F9F9;
+	--bg18: #E6E5E5;
+	--bg19: #006963;
+	--bg20: #F7F7FC;
+	--s1: 0, 86, 81;
+	--n0: #fff;
+	--n1: 236, 255, 252;
+	--n2: 255, 255, 255;
+	--n3: 73, 76, 101;
+	--n4: 255, 175, 64;
+	--n5: 28, 30, 48;
+	--n6: 195, 237, 223;
+	--n7: 230, 247, 241;
+	--n8: 205, 228, 220;
+	--n9: #0D0D0D;
+	--n10: #4A5551;
+	--n11: rgb(22, 73, 255, 15%);
+	--n12: #424F76;
+	--black-clr: #1C1E30;
+
+	--gradient-p1: linear-gradient(90deg, rgba(12, 169, 64, 0.08) 0.68%, rgba(236, 88, 88, 0.08) 100%);
+	--box-shadow-p1: 0px 6px 30px 0px rgba(0, 0, 0, 0.08);
+}
+
+
+
+
+
