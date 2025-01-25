@@ -1945,7 +1945,7 @@ iframe {
 }
 .prebuilt-websites .home-thumb {
   width: 100%;
-  height: 450px;
+  min-height: 450px;
   background-position: top;
   background-size: cover;
   transition: all 9s ease;
@@ -1974,7 +1974,6 @@ iframe {
 
 .home-thumb {
   width: 100%;
-  height: 450px;
   background-position: top;
   background-size: cover;
   transition: all 9s ease;
@@ -1986,6 +1985,13 @@ iframe {
   -o-object-fit: cover;
      object-fit: cover;
 }
+.home-thumb:hover {
+  background-position: bottom;
+}
+.home-thumb:hover.inner {
+  background-position: top;
+}
+
 .marquee-section.shape::before {
   position: absolute;
   content: "";
